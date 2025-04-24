@@ -5,7 +5,7 @@ Follow the below link for the complete report:
 
 
 
-![Netflix Data Analysis](https://github.com/SakshiYadav13/Netflix-Data-Analysis/assets/88963135/2088d860-f69a-4407-9de1-2c893f763f5a)
+![Netflix Data Analysis](https://github.com/qazinalam/Netflix-Data-Analysis/blob/main/347450015-2088d860-f69a-4407-9de1-2c893f763f5a.png)
 
 
 ## Objectives
